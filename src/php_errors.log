@@ -1,0 +1,1 @@
+[02-Jul-2018 01:14:05 UTC] PHP Fatal error:  Class 'Symfony\Bundle\FrameworkBundle\Controller\Controller' not found in /home/ubuntu/workspace/tokuweb/src/Controller/HelloController.php on line 8
